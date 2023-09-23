@@ -96,6 +96,12 @@
           }
         }
       }
+    },
+    "cli": {
+      "analytics": "54b30a1e-2eb6-48a7-9233-53a59c310d82"
     }
+  },
+  "cli": {
+    "analytics": "db1f0fca-ce26-469b-a21a-4a31afcea90a"
   }
 }
